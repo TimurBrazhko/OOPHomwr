@@ -20,7 +20,7 @@ class Superhero:
         return len(self.catchphrase)
 
 
-timur = Superhero('timur', 'ebashupapashu', 'bolshoichlen', 100, 'ANU IDI SUDA YA TEBYA VIEBU')
+timur = Superhero('timur', 'Gngng', 'wowosurprice', 100, 'yaaaay')
 
 print(timur.nameprint())
 print(timur.__len__())
